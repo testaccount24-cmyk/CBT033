@@ -1,0 +1,6 @@
+2025-04-10 16:12:27.076120 - Received CBT.V508.FILE033.PDS from FILE033.XMI 
+2025-04-10 16:12:27.076825 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE033.PDS, moved to PDS/$$$#DATE
+2025-04-10 16:12:27.077033 - Found @FILE033.txt (text/plain) in CBT.V508.FILE033.PDS, moved to PDS/@FILE033
+2025-04-10 16:12:27.077445 - Found JESSONG.txt (text/plain) in CBT.V508.FILE033.PDS, moved to PDS/JESSONG
+2025-04-10 16:12:27.077813 - Found SONG2004.doc (application/msword) in CBT.V508.FILE033.PDS, moved to docs/SONG2004.doc
+2025-04-10 16:12:27.078098 - Found SONG2009.doc (application/msword) in CBT.V508.FILE033.PDS, moved to docs/SONG2009.doc
